@@ -4,4 +4,4 @@ This is a save file/data editor for Cuphead which also works with the DLC! This 
 I plan on making a Windows executable (EXE) file in the future, but for now I'm just trying to make a web-based save file/data editor.
 
 Also, a huge thanks to GeopJr for making "DrKahls Time Machine", which is another Cuphead save file editor, but it is not compatible with the DLC, but it still works, so if you want to, go use his.
-https://dr.kahls-time-machine.geopjr.dev
+\nhttps://dr.kahls-time-machine.geopjr.dev
